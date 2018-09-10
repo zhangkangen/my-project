@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <p>
+      <router-link to="/">首页</router-link>
       <router-link to="/foo">Go to Foo</router-link>
       <router-link to="/bar">Go to Bar</router-link>
       <router-link to="/table">Go to Table</router-link>
